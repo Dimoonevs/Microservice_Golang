@@ -1,4 +1,4 @@
-module github.com/Dimoonevs/broker
+module github.com/Dimoonevs/Microservice_Golang/broker
 
 go 1.21.3
 

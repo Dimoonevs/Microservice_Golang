@@ -1,3 +1,3 @@
-module github.com/Dimoonevs/frontend
+module github.com/Dimoonevs/Microservice_Golang/frontend
 
 go 1.18
