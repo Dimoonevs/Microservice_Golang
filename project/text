@@ -1,0 +1,9 @@
+## build_front: builds the frone end binary
+## build_front:
+## 	@echo "Building front end binary..."
+## 	cd ../front-end && go build -o ${FRONT_END_BINARY} ./cmd/web
+## 	@echo "Done!"
+
+## start: starts the front end
+## start: build_front
+##	cd ../front-end && call ${FRONT_END_BINARY} &
